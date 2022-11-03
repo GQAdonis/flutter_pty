@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'dart:ffi';
+import 'proxy_ffi.dart' as ffi;
 import 'dart:io';
 import 'dart:isolate';
 import 'dart:typed_data';
